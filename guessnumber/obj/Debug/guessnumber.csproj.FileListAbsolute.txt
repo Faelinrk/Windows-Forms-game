@@ -1,0 +1,10 @@
+C:\Users\faeli\source\repos\homework7\guessnumber\bin\Debug\guessnumber.exe.config
+C:\Users\faeli\source\repos\homework7\guessnumber\bin\Debug\guessnumber.exe
+C:\Users\faeli\source\repos\homework7\guessnumber\bin\Debug\guessnumber.pdb
+C:\Users\faeli\source\repos\homework7\guessnumber\obj\Debug\guessnumber.csprojAssemblyReference.cache
+C:\Users\faeli\source\repos\homework7\guessnumber\obj\Debug\guessnumber.Form1.resources
+C:\Users\faeli\source\repos\homework7\guessnumber\obj\Debug\guessnumber.Properties.Resources.resources
+C:\Users\faeli\source\repos\homework7\guessnumber\obj\Debug\guessnumber.csproj.GenerateResource.cache
+C:\Users\faeli\source\repos\homework7\guessnumber\obj\Debug\guessnumber.csproj.CoreCompileInputs.cache
+C:\Users\faeli\source\repos\homework7\guessnumber\obj\Debug\guessnumber.exe
+C:\Users\faeli\source\repos\homework7\guessnumber\obj\Debug\guessnumber.pdb
